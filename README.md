@@ -1,4 +1,4 @@
-## Project design
+## ETL Project design
 
 ```mermaid
 flowchart LR
