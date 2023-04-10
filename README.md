@@ -16,10 +16,6 @@ We pull data from Reddit/Twitter API, transform them using python and load them 
 4. [Twitter API token](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api), you'll need your twitter APIs **`BEARER_TOKEN`**.
 5. [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-```bash
-git clone https://github.com/josephmachado/socialetl.git
-cd socialetl
-```
 
 ## Setup
 
